@@ -83,7 +83,7 @@ $ cat profile.txt
 | 📊 **DataLens** | AI data visualization agent for HR, Finance & Business upskill analysis | `HTML` `JavaScript` `AI Charts` | [▶ Live](https://data-lens-mu-drab.vercel.app) · [GitHub](https://github.com/nayanajithRajapaksha/DataLens) |
 | 🎬 **Movie Recommender** | Collaborative filtering recommendation engine using ML algorithms | `Python` `scikit-learn` `Pandas` `Cosine Similarity` | [GitHub](https://github.com/nayanajithRajapaksha) |
 | 🏘️ **Sell & Buy Properties** | Full-stack real estate listing and management platform | `Java` `HTML` `CSS` `MySQL` `SQL` | [GitHub](https://github.com/nayanajithRajapaksha) |
-| 🏆 **Mini Hackathon** | Award-winning full-stack hackathon project (Group 10) | `.NET` `React` `PostgreSQL` | [▶ Live](https://mini-hackathon-group-10.vercel.app) · [GitHub](https://github.com/nayanajithRajapaksha/mini-hackathon---group-10) |
+| 💉 **CareMate** | Government vaccination management system with email notifications — web & mobile | `React` `React Native` `Node.js` `Express` `Supabase` | [GitHub](https://github.com/nayanajithRajapaksha) |
 
 ---
 

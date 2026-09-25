@@ -18,7 +18,7 @@ learning_card_svg = """<svg xmlns="http://www.w3.org/2000/svg" width="800" heigh
   <rect x="20" y="20" width="760" height="300" rx="16" ry="16" fill="url(#bgGrad)" filter="url(#dropShadow)" />
   
   <!-- Inner thin border (glass effect) -->
-  <rect x="21" y="21" width="758" height="298" rx="15" ry="15" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <rect x="21" y="21" width="758" height="298" rx="15" ry="15" fill="none" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1"/>
 
   <!-- MacOS Window Buttons -->
   <circle cx="50" cy="45" r="7" fill="#ff5f56" />
@@ -30,7 +30,7 @@ learning_card_svg = """<svg xmlns="http://www.w3.org/2000/svg" width="800" heigh
 
   <!-- Code Background -->
   <rect x="40" y="75" width="720" height="225" rx="8" fill="#0d1117" />
-  <rect x="41" y="76" width="718" height="223" rx="7" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+  <rect x="41" y="76" width="718" height="223" rx="7" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
 
   <!-- Code Text -->
   <g font-family="'Fira Code', Consolas, Monaco, 'Courier New', Courier, monospace" font-size="15" font-weight="500">
@@ -42,6 +42,7 @@ learning_card_svg = """<svg xmlns="http://www.w3.org/2000/svg" width="800" heigh
     <text x="65" y="210" fill="#484f58" text-anchor="end">5</text>
     <text x="65" y="235" fill="#484f58" text-anchor="end">6</text>
     <text x="65" y="260" fill="#484f58" text-anchor="end">7</text>
+    <text x="65" y="285" fill="#484f58" text-anchor="end">8</text>
     
     <!-- Code Content -->
     <!-- Line 1: nayanajith = { -->
