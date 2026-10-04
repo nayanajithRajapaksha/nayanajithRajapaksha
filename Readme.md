@@ -117,7 +117,7 @@ $ cat profile.txt
 
 ---
 
-### 🏆 Language Distribution
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayanajithRajapaksha&theme=radical" alt="Language Distribution" />
