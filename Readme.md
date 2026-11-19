@@ -44,10 +44,11 @@ $ cat profile.txt
   Name     :  Chathuranga Nayanajith Rajapaksha
   Degree   :  BSc (Hons) Information Technology — AI Specialization
   Uni      :  Sri Lanka Institute of Information Technology (SLIIT)
-  Year     :  3rd Year, Semester 1
-  Intern   :  AI/ML Engineer @ EgoTechWorld (Pvt) Ltd  [ July 2026 → Present ]
-  Location :  Udapussellawa, Nuwara-Eliya, Sri Lanka 🇱🇰
-  Passion  :  Agentic AI • Machine Learning • Full-Stack Development
+  Year     :  3rd Year, Semester 2  |  Expected Graduation: July 2028
+  Role     :  AI Engineer Intern @ Guardian Solutions
+  Builder  :  Co-Developer & AI/Backend Engineer @ TESO.LK
+  Location :  Malabe, Colombo, Sri Lanka 🇱🇰
+  Focus    :  Agentic AI • RAG • Backend & Full-Stack Engineering
   Quote    :  "Build things that matter. Ship things that work." 🚀
 ```
 
@@ -66,11 +67,21 @@ $ cat profile.txt
 
 ### 💼 Experience
 
-**🏢 AI/ML Engineering Intern — EgoTechWorld (Pvt) Ltd**
-*July 2026 – Present | Colombo, Sri Lanka*
-- Developing and deploying machine learning models for real-world business problems
-- Working on data pipelines, model evaluation and AI-powered feature development
-- Collaborating in an Agile team environment on production-grade AI systems
+**🏢 AI Engineer Intern — Guardian Solutions**
+*November 2026 – Present*
+- Developing applied AI workflows, LLM-driven automation and intelligent backend services for client solutions
+- Collaborating on model evaluation, agent orchestration and scalable API deployment
+
+**🏢 Software Engineer Intern — EGoTechworld (Pvt) Ltd**
+*July 2026 – November 2026 | Mawanella, Sri Lanka*
+- Completed a fixed-term internship contributing full-stack features, REST APIs and database integrations
+- Worked in agile sprints on debugging, API testing and version-controlled delivery
+
+**🚀 Co-Developer & AI/Backend Engineer — TESO.LK**
+*June 2026 – Present*
+- Co-architecting an adaptive-learning and real-time examination platform with Next.js, FastAPI, PostgreSQL and Redis
+- Built PDF import, English/Sinhala OCR, background processing, document chunking and semantic retrieval workflows
+- Developing an AI service with multi-provider LLM routing, knowledge ingestion and RAG-backed study features
 
 ---
 
@@ -91,7 +102,7 @@ $ cat profile.txt
 
 | Degree | Institution | Duration | Focus |
 |---|---|---|---|
-| **BSc (Hons) Information Technology** | Sri Lanka Institute of Information Technology (SLIIT) | 2024 – Present | Specializing In AI & Machine Learning |
+| **BSc (Hons) Information Technology** | Sri Lanka Institute of Information Technology (SLIIT) | 2024 – Present | AI Specialization · Expected July 2028 |
 
 ---
 
