@@ -116,7 +116,7 @@
   
   <!-- ANIMATED ROLES -->
   <text x="347" y="551" text-anchor="middle" font-family="'Segoe UI', -apple-system, sans-serif" font-size="17" font-weight="600" fill="#58a6ff" class="anim-role role-1">AI Enthusiast &amp; Innovator</text>
-  <text x="347" y="551" text-anchor="middle" font-family="'Segoe UI', -apple-system, sans-serif" font-size="17" font-weight="600" fill="#3fb950" class="anim-role role-2">Machine Learning Engineer</text>
+  <text x="347" y="551" text-anchor="middle" font-family="'Segoe UI', -apple-system, sans-serif" font-size="17" font-weight="600" fill="#3fb950" class="anim-role role-2">Agentic AI Engineer</text>
   <text x="347" y="551" text-anchor="middle" font-family="'Segoe UI', -apple-system, sans-serif" font-size="17" font-weight="600" fill="#ffa657" class="anim-role role-3">Software Engineering Collaborator</text>
   <text x="347" y="551" text-anchor="middle" font-family="'Segoe UI', -apple-system, sans-serif" font-size="17" font-weight="600" fill="#bc8cff" class="anim-role role-4">Building Real-World AI Solutions</text>
 
@@ -149,7 +149,7 @@
     
     <text x="0" y="35"><tspan class="term-dot">. </tspan><tspan class="term-key">Role:</tspan></text>
     <line x1="90" y1="30" x2="280" y2="30" class="term-leader"/>
-    <text x="620" y="35" text-anchor="end" class="term-value">AI/ML Engineer &amp; Full-Stack Dev</text>
+    <text x="620" y="35" text-anchor="end" class="term-value">AI Engineer &amp; AI/Backend Dev</text>
 
     <text x="0" y="70"><tspan class="term-dot">. </tspan><tspan class="term-key">Location:</tspan></text>
     <line x1="110" y1="65" x2="490" y2="65" class="term-leader"/>
@@ -161,7 +161,7 @@
     
     <text x="0" y="140"><tspan class="term-dot">. </tspan><tspan class="term-key">Intern:</tspan></text>
     <line x1="90" y1="135" x2="360" y2="135" class="term-leader"/>
-    <text x="620" y="140" text-anchor="end" class="term-value">EgoTechWorld (Pvt) Ltd</text>
+    <text x="620" y="140" text-anchor="end" class="term-value">Guardian Solutions</text>
 
     <text x="0" y="175"><tspan class="term-dot">. </tspan><tspan class="term-key">Languages:</tspan></text>
     <line x1="120" y1="170" x2="240" y2="170" class="term-leader"/>
@@ -187,17 +187,17 @@
     <text x="0" y="410"><tspan fill="#8b949e">- </tspan><tspan class="term-title">Featured Projects</tspan></text>
     <line x1="205" y1="405" x2="620" y2="405" class="term-line" />
     
-    <text x="0" y="445"><tspan class="term-dot">. </tspan><tspan class="term-key">QuickBite:</tspan></text>
+    <text x="0" y="445"><tspan class="term-dot">. </tspan><tspan class="term-key">TESO.LK:</tspan></text>
     <line x1="120" y1="440" x2="160" y2="440" class="term-leader"/>
-    <text x="620" y="445" text-anchor="end" class="term-value">Smart canteen app (React Native, Node, MongoDB)</text>
+    <text x="620" y="445" text-anchor="end" class="term-value">Adaptive learning, exams &amp; AI tutor</text>
     
-    <text x="0" y="480"><tspan class="term-dot">. </tspan><tspan class="term-key">Vehicle-IQ:</tspan></text>
+    <text x="0" y="480"><tspan class="term-dot">. </tspan><tspan class="term-key">Serendib Trails:</tspan></text>
     <line x1="130" y1="475" x2="175" y2="475" class="term-leader"/>
-    <text x="620" y="480" text-anchor="end" class="term-value">AI price prediction (Python, Flask, scikit-learn)</text>
+    <text x="620" y="480" text-anchor="end" class="term-value">Multi-agent AI travel planning</text>
 
-    <text x="0" y="515"><tspan class="term-dot">. </tspan><tspan class="term-key">DataLens:</tspan></text>
+    <text x="0" y="515"><tspan class="term-dot">. </tspan><tspan class="term-key">CareMate:</tspan></text>
     <line x1="110" y1="510" x2="190" y2="510" class="term-leader"/>
-    <text x="620" y="515" text-anchor="end" class="term-value">AI data viz agent for HR / Finance / Business</text>
+    <text x="620" y="515" text-anchor="end" class="term-value">Maternal health &amp; vaccination platform</text>
     
     <!-- SECTION 4: GITHUB STATS -->
     <text x="0" y="580"><tspan fill="#8b949e">- </tspan><tspan class="term-title">GitHub Stats</tspan></text>
